@@ -23,5 +23,7 @@
    background: #eeeeee;
 }
 .download-button{
-   position:50% 30%;  
+   position:50% 30%;
+   width="300 px";
+   height="168 px";
 }
