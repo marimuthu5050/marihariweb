@@ -24,6 +24,9 @@
 }
 .download-button{
    position:50% 30%;
-   width="300 px";
-   height="168 px";
+}
+.upload-button{
+   width: "444 px";
+   height: "113 px";
+   position: 30% 30%;
 }
